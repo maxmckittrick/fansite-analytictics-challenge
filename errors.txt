@@ -1,0 +1,4 @@
+Failed on Feature 1: object.__init__() takes no parameters
+Failed on Feature 2: 'module' object has no attribute 'MostIntensiveResources'
+Failed on Feature 3: object.__init__() takes no parameters
+Failed on Feature 4: object.__init__() takes no parameters

@@ -5,7 +5,7 @@ import collections
 import csv
 import parse_server_log
 
-class MostBandwidthResources(base_feature.BaseFeature):
+class MostBandwidthResources(text_features.TextFeatures):
 
     def __init__(self, input_data, output_file, k=10):
         super(MostBandwidthResources, self).__init__(input_data, output_file)

@@ -1,7 +1,7 @@
 #text_features is used to extract features from logs and output data as strings to the specified output_file
 
 import csv
-import read_server_log
+import parse_server_log
 
 class TextFeatures(object):
     def _init_(self, server_log, output_file):
