@@ -1,4 +1,4 @@
-#!/bin/bash
+#double check for cygwin path conflicts
 
 declare -r color_start="\033["
 declare -r color_red="${color_start}0;31m"

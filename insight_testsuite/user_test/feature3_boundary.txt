@@ -1,0 +1,4 @@
+google.com - - [01/Jul/1995:00:00:03 -0400] "GET /coolstuff.gif HTTP/1.0" 200 1024
+google.com - - [01/Jul/1995:00:00:04 -0400] "GET /coolstuff.gif HTTP/1.0" 200 1024
+google.com - - [01/Jul/1995:01:00:04 -0400] "GET /coolstuff.gif HTTP/1.0" 200 1024
+google.com - - [02/Jul/1995:01:00:04 -0400] "GET /coolstuff.gif HTTP/1.0" 200 1024
